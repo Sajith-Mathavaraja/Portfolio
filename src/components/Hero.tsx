@@ -47,7 +47,7 @@ const Hero = () => {
               <div className="animate-fade-in-up" style={{ animationDelay: "0.4s" }}>
                 <p className="text-xl sm:text-2xl lg:text-3xl gradient-text font-medium mt-4 hover-glow">
                   <WordByWordTypewriter 
-                    text="Web Developer & UI/UX Designer"
+                    text="frontend web developer & UI/UX Designer"
                     className="gradient-text"
                     wordSpeed={600}
                     pauseDuration={300}
