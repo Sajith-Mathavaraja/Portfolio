@@ -34,16 +34,10 @@ const About = () => {
               
               <div className="relative z-10">
                 <p className="text-lg leading-relaxed text-muted-foreground mb-6 transform transition-all duration-700 group-hover:text-foreground/90 group-hover:translate-x-2">
-                  A passionate designer and developer with a strong eye for detail, blending creative design with technical expertise. I specialize in building responsive websites, functional prototypes, and data-driven user interfaces that deliver exceptional user experiences.
+                  I'm a Frontend Web Developer and UI/UX Designer with a passion for creating responsive, user-friendly websites. I recently completed an HND in Software Engineering and am currently seeking a Web Development internship to apply my skills in real-world projects. I enjoy learning new technologies and staying current with web design trends.
                 </p>
                 
-                <p className="text-lg leading-relaxed text-muted-foreground mb-6 transform transition-all duration-700 group-hover:text-foreground/90 group-hover:translate-x-2">
-                  Currently pursuing Software Engineering while actively building real-world applications, I bring a unique perspective that combines academic knowledge with practical implementation. My journey in web development and UI/UX design is driven by a commitment to creating digital solutions that are both beautiful and functional.
-                </p>
-
-                <p className="text-lg leading-relaxed text-muted-foreground transform transition-all duration-700 group-hover:text-foreground/90 group-hover:translate-x-2">
-                  When I'm not coding or designing, I'm exploring new technologies, contributing to open-source projects, and constantly learning to stay at the forefront of modern web development trends.
-                </p>
+              
               </div>
             </div>
 
