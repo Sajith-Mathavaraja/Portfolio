@@ -13,7 +13,7 @@ const Navigation = () => {
 
   useEffect(() => {
     const handleScroll = () => {
-      const sections = ["hero", "about", "projects", "education", "skills", "certifications", "contact"];
+      const sections = ["hero", "about", "projects",  "skills", "certifications", "contact"];
       const scrollPosition = window.scrollY + 100;
 
       for (const section of sections.reverse()) {
@@ -41,7 +41,6 @@ const Navigation = () => {
     { id: "hero", label: "Home" },
     { id: "about", label: "About" },
     { id: "projects", label: "Projects" },
-    { id: "education", label: "Education" },
     { id: "skills", label: "Skills" },
     { id: "certifications", label: "Certifications" },
     { id: "contact", label: "Contact" },
